@@ -10,5 +10,8 @@ In this project there is a concept of how to set up your project with the latest
 ✔ History list with copy and delete actions
 
 
+s1.png
+
+
 
 

@@ -10,13 +10,10 @@ In this project there is a concept of how to set up your project with the latest
 ✔ Secure summary generation using Gemini AI
 ✔ Save and fetch summaries per user
 ✔ Mobile-friendly UI with responsive tabs
-✔ History list with copy and delete actions
+✔ History list with copy and delete actions.
 
 
-The youtube link for this project is - https://youtu.be/fpZ5U_YrCDM?feature=shared
-
-
-
+The youtube link for this project is - https://youtu.be/fpZ5U_YrCDM?feature=shared.
 
 
 
@@ -34,7 +31,10 @@ The youtube link for this project is - https://youtu.be/fpZ5U_YrCDM?feature=shar
 
 
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e032fcce-af98-4a1d-8255-c18a2a4d8096" />
+
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e032fcce-af98-4a1d-8255-c18a2a4d8096" /> .
 
 
 
@@ -46,7 +46,7 @@ The youtube link for this project is - https://youtu.be/fpZ5U_YrCDM?feature=shar
 
 
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/97e3fca9-d9ef-457c-9588-839447bbc84a" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/97e3fca9-d9ef-457c-9588-839447bbc84a" /> .
 
 
 

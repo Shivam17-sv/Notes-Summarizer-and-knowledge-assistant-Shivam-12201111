@@ -10,7 +10,18 @@ In this project there is a concept of how to set up your project with the latest
 ✔ History list with copy and delete actions
 
 
+
+
+
+
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e032fcce-af98-4a1d-8255-c18a2a4d8096" />
+
+
+
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/97e3fca9-d9ef-457c-9588-839447bbc84a" />
+
 
 
 

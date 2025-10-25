@@ -11,5 +11,4 @@ In this project there is a concept of how to set up your project with the latest
 
 
 
-![Uploading Untitled - Personal - Microsoft​ Edge 25-10-2025 18_13_45.png…]()
 
